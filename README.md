@@ -1,2 +1,2 @@
 # chat-socket
-Chat hecho en Java
+Chat programado en Java
